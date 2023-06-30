@@ -1,6 +1,5 @@
 {
   "private": true,
-  "homepage": "http://[kurutaku].github.io/[syougi]",
     "homepage": "https://myusername.github.io/my-app",
   "dependencies": {
     "react": "^18.0.0",
